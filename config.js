@@ -4,22 +4,25 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "Para",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "Mi lindo amorcito...",  // 同上...
+        "Mi niña hermosa...",  // 同上...
         "Te das cuenta lo mucho que has crecido", 
-        "Hoy es tu cumpleaños, 18 años ya.",
+        "Hoy es tu cumpleaños,",
+        "18 años ya!!!.",
         "¡Es el segundo cumpleaños!",
         "en donde tengo la fortuna de estar presente",
         "y no puedo imaginar mi vida sin ti.",
         "Eres mi mejor amiga,",
         "mi apoyo incondicional,",
         "mi confidente,",
+        "Mi lugar seguro,",
         "mi amor eterno.",
         "Te agradezco",
-        "Por permitirme saber de ti",
-        "por estar siempre a mi lado",
+        "Por permitirme saber de ti,",
+        "por estar siempre a mi lado,",
         "por compartir momentos inigualables.",
         "Tu inteligencia,",
         "tu belleza,",
+        "Tu amor a DIOS,",
         "tu ternura,",
         "tu risa contagiosa,",
         "son incomparables.",
@@ -45,7 +48,7 @@ var config = {
      */
     imgs: {
         //"Mi lindo amorcito": "./imgs/xiaokeai.png",
-        "Mi lindo amorcito...": "./imgs/pau.jpg",
+        "Mi niña hermosa...": "./imgs/pau.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
